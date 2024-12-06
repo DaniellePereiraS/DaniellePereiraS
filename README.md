@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=4E28B0&width=435&lines=Hello+World!!+Welcolme!)](https://git.io/typing-svg)
 
-
-
 <h3 align="left">👩‍💻  Um pouco sobre mim:</h3>
 
 ###
@@ -40,6 +38,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DaniellePereiraS.DaniellePereiraS&"  />
 </div>
 
+<img src="https://raw.githubusercontent.com/DaniellePereiraS/DaniellePereiraS/output/snake.svg" alt="Snake animation" />
+
+###
 <!--
 **DaniellePereiraS/DaniellePereiraS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
