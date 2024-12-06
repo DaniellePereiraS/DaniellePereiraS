@@ -1,5 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=4E28B0&width=435&lines=Hello+World!!+Welcolme!)](https://git.io/typing-svg)
 
-<span style="color: purple;">Hello World!! Welcolme!</span>
+
 
 <h3 align="left">👩‍💻  Um pouco sobre mim:</h3>
 
